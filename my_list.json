@@ -1,7 +1,23 @@
 {
   "urls": [
     {
-      "name": "👑 飯太硬 · 綜合旗艦源 (穩定防廣告)",
+      "name": "🐈 小貓作者官方 · 全功能旗艦源 (最正統推薦)",
+      "url": "https://d1y.github.io/kitty/x.json"
+    },
+    {
+      "name": "🐈 小貓作者官方 · XVOD混合源 (你原本使用的源)",
+      "url": "https://d1y.github.io/kitty/xvod.json"
+    },
+    {
+      "name": "🐈 小貓作者官方 · 傳統VOD影音源",
+      "url": "https://d1y.github.io/kitty/vod.json"
+    },
+    {
+      "name": "🐈 小貓作者官方 · 獨立電視直播源",
+      "url": "https://d1y.github.io/kitty/lives.json"
+    },
+    {
+      "name": "👑 飯太硬 · 綜合全功能旗艦源 (穩定防廣告)",
       "url": "https://fan.md7.top/1"
     },
     {
@@ -17,16 +33,12 @@
       "url": "http://ttkx.live:66/tv.txt"
     },
     {
-      "name": "🐟 摸魚 · 動漫綜藝短劇隨時跟播源",
+      "name": "🐟 摸魚 · 東南亞動漫綜藝短劇跟播源",
       "url": "http://itvbox.cc/tv"
     },
     {
       "name": "☁️ 高天流雲 · 純淨多功能電視直播源",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/0z/master/0.json"
-    },
-    {
-      "name": "⚡ 單線路 · 輕量極速低配盒子最愛源",
-      "url": "https://dxawi.github.io/0/0.json"
     }
   ],
   "sites": [
@@ -35,22 +47,6 @@
       "name": "🦆 我的私房源：小鸭看看",
       "type": 1,
       "api": "https://xiaoyakankan.com",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "jinying",
-      "name": "🦅 我的私房源：金鷹影視",
-      "type": 1,
-      "api": "https://py.jinyingzy.com/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "feisu",
-      "name": "🚀 我的私房源：飛速資源",
-      "type": 1,
-      "api": "https://www.feisuzuida.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
     },
@@ -72,21 +68,12 @@
     },
     {
       "key": "niba_ys",
-      "name": "💩 我的私房源：泥巴影視",
+      "name": "💩 我的私房源：泥巴影視 (海外獨家)",
       "type": 3,
       "api": "csp_NiBaJu",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://fan.md7.top/py/泥巴.py"
-    },
-    {
-      "key": "netflix_cn",
-      "name": "🎥 我的私房源：奈飛中文站",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://fan.md7.top/json/奈飞影视.json"
     },
     {
       "key": "czzy_site",
