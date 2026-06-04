@@ -1,0 +1,54 @@
+{
+  "urls": [
+    {
+      "name": "👑 飯太硬 · 綜合旗艦源 (穩定防廣告)",
+      "url": "https://fan.md7.top/1"
+    },
+    {
+      "name": "🐱 肥貓 · 4K雲盤狂熱源 (極致畫質流暢)",
+      "url": "http://肥猫.live/tv"
+    },
+    {
+      "name": "🐟 摸魚 · 動漫綜藝短劇隨時跟播源",
+      "url": "http://itvbox.cc/tv"
+    },
+    {
+      "name": "☁️ 高天流雲 · 純淨多功能電視直播源",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/0z/master/0.json"
+    }
+  ],
+  "sites": [
+    {
+      "key": "xiaoyakankan",
+      "name": "🦆 我的私房源：小鸭看看",
+      "type": 1,
+      "api": "https://xiaoyakankan.com",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "jinying",
+      "name": "🦅 我的私房源：金鷹影視",
+      "type": 1,
+      "api": "https://py.jinyingzy.com/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "feisu",
+      "name": "🚀 我的私房源：飛速資源",
+      "type": 1,
+      "api": "https://www.feisuzuida.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "ysxq_cc",
+      "name": "🎬 我的私房源：播剧网",
+      "type": 1,
+      "api": "https://www.ysxq.cc",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ]
+}
