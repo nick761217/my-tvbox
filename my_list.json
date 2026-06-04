@@ -63,6 +63,41 @@
       "changeable": 1
     },
     {
+      "key": "ok_m3u8",
+      "name": "👌 我的私房源：OK影視",
+      "type": 1,
+      "api": "https://api.okzy-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "niba_ys",
+      "name": "💩 我的私房源：泥巴影視",
+      "type": 3,
+      "api": "csp_NiBaJu",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fan.md7.top/py/泥巴.py"
+    },
+    {
+      "key": "netflix_cn",
+      "name": "🎥 我的私房源：奈飛中文站",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fan.md7.top/json/奈飞影视.json"
+    },
+    {
+      "key": "czzy_site",
+      "name": "🏭 我的私房源：厂长资源",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fan.md7.top/js/厂长.js"
+    },
+    {
       "key": "sex_bullet",
       "name": "🔞 私密源：子彈資源",
       "type": 1,
