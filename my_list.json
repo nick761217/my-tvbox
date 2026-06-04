@@ -5,8 +5,16 @@
       "url": "https://fan.md7.top/1"
     },
     {
-      "name": "🐱 肥貓 · 4K雲盤狂熱源 (極致畫質流暢)",
+      "name": "🚀 巧技網盤 · 4K藍光狂熱源 (頂級畫質首選)",
+      "url": "http://qiaoji.vip/tv"
+    },
+    {
+      "name": "🐱 肥貓 · 4K雲盤共享源 (加載極速流暢)",
       "url": "http://肥猫.live/tv"
+    },
+    {
+      "name": "📺 天天開心 · 全家福電視直播源 (頻道超全)",
+      "url": "http://ttkx.live:66/tv.txt"
     },
     {
       "name": "🐟 摸魚 · 動漫綜藝短劇隨時跟播源",
@@ -15,6 +23,10 @@
     {
       "name": "☁️ 高天流雲 · 純淨多功能電視直播源",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/0z/master/0.json"
+    },
+    {
+      "name": "⚡ 單線路 · 輕量極速低配盒子最愛源",
+      "url": "https://dxawi.github.io/0/0.json"
     }
   ],
   "sites": [
@@ -47,6 +59,33 @@
       "name": "🎬 我的私房源：播剧网",
       "type": 1,
       "api": "https://www.ysxq.cc",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "sex_bullet",
+      "name": "🔞 私密源：子彈資源",
+      "type": 1,
+      "api": "https://www.zidanzy.com/api.php/provide/vod/",
+      "nsfw": true,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "sex_xiangjiao",
+      "name": "🔞 私密源：香蕉資源",
+      "type": 1,
+      "api": "https://www.xiangjiaozy.com/api.php/provide/vod/",
+      "nsfw": true,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "sex_jiuse",
+      "name": "🔞 私密源：九色資源",
+      "type": 1,
+      "api": "https://json.9szyapi.com/provide/vod/",
+      "nsfw": true,
       "searchable": 1,
       "changeable": 1
     }
