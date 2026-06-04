@@ -9,14 +9,6 @@
       "url": "https://d1y.github.io/kitty/xvod.json"
     },
     {
-      "name": "🐈 小貓作者官方 · 傳統VOD影音源",
-      "url": "https://d1y.github.io/kitty/vod.json"
-    },
-    {
-      "name": "🐈 小貓作者官方 · 獨立電視直播源",
-      "url": "https://d1y.github.io/kitty/lives.json"
-    },
-    {
       "name": "👑 飯太硬 · 綜合全功能旗艦源 (穩定防廣告)",
       "url": "https://fan.md7.top/1"
     },
@@ -33,12 +25,28 @@
       "url": "http://ttkx.live:66/tv.txt"
     },
     {
-      "name": "🐟 摸魚 · 東南亞動漫綜藝短劇跟播源",
-      "url": "http://itvbox.cc/tv"
+      "name": "✨ 奇珀網精選：開心綜合趣味源",
+      "url": "http://kxys.vip:666/kxys"
     },
     {
-      "name": "☁️ 高天流雲 · 純淨多功能電視直播源",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/0z/master/0.json"
+      "name": "✨ 奇珀網精選：巧兒影視大集合",
+      "url": "http://shuyuan.miaogongzi.net/shuyuan/1715696523.json"
+    },
+    {
+      "name": "✨ 奇珀網精選：不知名神仙多線路源",
+      "url": "http://meowtv.top/tv"
+    },
+    {
+      "name": "✨ 奇珀網精選：四圈高畫質專線",
+      "url": "https://git.acwing.com/wcl/tvbox/-/raw/main/sq.json"
+    },
+    {
+      "name": "✨ 奇珀網精選：傲技開源通用源",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/0z/master/0.json"
+    },
+    {
+      "name": "⚡ 單線路 · 輕量極速低配盒子最愛源",
+      "url": "https://dxawi.github.io/0/0.json"
     }
   ],
   "sites": [
