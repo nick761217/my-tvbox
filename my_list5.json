@@ -1,0 +1,544 @@
+{
+  "sites": [
+    {
+      "id": "youzhiziyuanku",
+      "name": "优质资源库",
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "789ziyuan",
+      "name": "789资源",
+      "api": "https://www.caiji.cyou/api.php/provide/vod",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "wujinziyuan",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "baofengziyuan",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "jisuziyuan",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "suoniziyuan",
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "taopianziyuan",
+      "name": "淘片资源",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "dianyingtiantang",
+      "name": "电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "wangwangziyuan",
+      "name": "旺旺资源",
+      "api": "https://ww.tyyszy5.com/api.php/provide/vod/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "maoyanziyuan",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "yayaziyuan",
+      "name": "鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "niuniuziyuan",
+      "name": "牛牛资源",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "yingjuziyuan",
+      "name": "影剧资源",
+      "api": "https://yjzy.tv/api.php/provide/vod/at/josn/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "jinyingziyuan",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "wushuiyinziyuan",
+      "name": "无水印资源",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "suboziyuan",
+      "name": "速播资源",
+      "api": "https://subocj.com/api.php/provide/vod/at/json/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "haohuaziyuan",
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "guangsuziyuan",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "maotaiziyuan",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "doubanziyuan",
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "hongniuziyuan",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/josn/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "xiaoyakankan",
+      "name": "小鸭看看",
+      "api": "https://xiaoyakankan.com",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "ysxq_cc",
+      "name": "播剧网",
+      "api": "https://www.ysxq.cc",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "ok_m3u8",
+      "name": "OK影视",
+      "api": "https://api.okzy-api.com/api.php/provide/vod/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "niba_ys",
+      "name": "泥巴影视 (海外独家)",
+      "api": "csp_NiBaJu",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "czzy_site",
+      "name": "厂长资源",
+      "api": "csp_Czzy",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "haitangw_tv",
+      "name": "海棠影视 (主线)",
+      "api": "http://yuan.haitangw.net/tv/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "haitangw_box",
+      "name": "海棠影视 (多线)",
+      "api": "http://yuan.haitangw.net/box/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "fantaiying_tv",
+      "name": "饭太硬",
+      "api": "http://饭太硬.top/tv",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "nxog_m",
+      "name": "讴歌影视",
+      "api": "http://tv.nxog.top/m/",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "feimao_live",
+      "name": "肥猫线路",
+      "api": "http://我不是.肥猫.live/接口禁止贩卖",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "chunying_tianxia",
+      "name": "春盈天下",
+      "api": "https://wds.ecsxs.com/230864.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "qiaoji_tvbox",
+      "name": "巧技影视",
+      "api": "http://cdn.qiaoji8.com/tvbox.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "ok321_tv",
+      "name": "OK吊炸天",
+      "api": "http://ok321.top/tv",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "yunshuche_svip",
+      "name": "运输车专线",
+      "api": "https://tvkj.top/DC/ysc/tvkj/svip.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "xiangyaqing_json",
+      "name": "香雅情影视",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "shiguangji_stable",
+      "name": "时光机线路",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "hecheng_chaxiu",
+      "name": "荷城茶秀",
+      "api": "http://rihou.cc:88/荷城茶秀",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "yydsys_duo",
+      "name": "应用多多",
+      "api": "http://yydsys.top/duo",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "yydsys_ali",
+      "name": "应用多多 (阿里精品)",
+      "api": "http://yydsys.top/duo/ali",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "jundie_top98",
+      "name": "俊佬/俊于线路",
+      "api": "http://home.jundie.top:81/top98.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "ygbh_ygbox",
+      "name": "月光宝盒 (单线路)",
+      "api": "https://gitee.com/guot54/YGBH777/raw/main/ygbox.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "xiaomi_demo",
+      "name": "小米小爆脾气",
+      "api": "http://xhww.fun:63/小米/DEMO.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "fongmi_config",
+      "name": "Fongmi 官方配置",
+      "api": "https://999740.xyz/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "tianwei_svip",
+      "name": "天微单仓",
+      "api": "http://tvkj.top/tvys/svip.json",
+      "nsfw": false,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "xingbaziyuan",
+      "name": "杏吧资源",
+      "api": "https://xingba222.com/api.php/provide/vod/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "huangsecangku",
+      "name": "黄色仓库",
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "xiaojiziyuan",
+      "name": "小鸡资源",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "CKlunliziyuan",
+      "name": "CK伦理资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "fanhaoziyuan",
+      "name": "番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "sex_bullet",
+      "name": "子弹资源",
+      "api": "https://www.zidanzy.com/api.php/provide/vod/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "sex_xiangjiao",
+      "name": "香蕉资源",
+      "api": "https://www.xiangjiaozy.com/api.php/provide/vod/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "sex_jiuse",
+      "name": "九色资源",
+      "api": "https://json.9szyapi.com/provide/vod/",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    },
+    {
+      "id": "thfx_fuli",
+      "name": "TH福利仓库",
+      "api": "http://ob4.cn/thfx",
+      "nsfw": true,
+      "type": 0,
+      "extra": {
+        "gfw": false
+      }
+    }
+  ]
+}
