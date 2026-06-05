@@ -1,0 +1,82 @@
+[
+  {
+    "id": "xiaoyakankan",
+    "name": "小鸭看看",
+    "api": "https://xiaoyakankan.com",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "ysxq_cc",
+    "name": "播剧网",
+    "api": "https://www.ysxq.cc",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "ok_m3u8",
+    "name": "OK影视",
+    "api": "https://api.okzy-api.com/api.php/provide/vod/",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "niba_ys",
+    "name": "泥巴影视 (海外独家)",
+    "api": "csp_NiBaJu",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "czzy_site",
+    "name": "厂长资源",
+    "api": "csp_Czzy",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "sex_bullet",
+    "name": "子弹资源",
+    "api": "https://www.zidanzy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "sex_xiangjiao",
+    "name": "香蕉资源",
+    "api": "https://www.xiangjiaozy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "sex_jiuse",
+    "name": "九色资源",
+    "api": "https://json.9szyapi.com/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
